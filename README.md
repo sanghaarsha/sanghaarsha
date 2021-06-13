@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: I love Open Source.
-- 🔭 I’m currently working on some basic Web-Projects.
-- 🌱 I’m currently learning Web Developoment, Machine Learning and some Hardware stuffs.
-- 📫 How to reach me: Figure it out!
+- :computer: Open Source Enthusiast.
+- 🔭 Working on some basic web projects.
+- 🌱 Learning Web Development, Machine Learning and some Electronics stuff.
+- 📫 How to reach me: sanghaarsha@protonmail.com, I may take some time to reply.
