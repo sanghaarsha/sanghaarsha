@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **to teach machines think (sort of).**
 
-- 🔭 I’m currently working on **implementing Generative Adversarial Network(GAN)GAN myself.**
+- 🔭 I’m currently working on **implementing Generative Adversarial Network (GAN) myself.**
 
 - 📫 How to reach me **contact@sangharshadahal.com.np**
 
