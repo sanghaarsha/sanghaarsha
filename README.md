@@ -3,9 +3,9 @@
 
 - 🎓Studied **BE in Electronics, Communication and Information Engineering**
 
-- 🌱 I’m currently learning **to teach machines think (sort of).**
+- 🌱 I’m currently learning **Fullstack Web.**
 
-- 🔭 I’m currently working on **implementing Generative Adversarial Network (GAN) myself.**
+- 🔭 I’m currently working on **Vue.**
 
 - 📫 How to reach me **contact@sangharshadahal.com.np**
 
